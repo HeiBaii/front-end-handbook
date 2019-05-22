@@ -1,0 +1,44 @@
+XMLHttp中文参考手册
+
+xHTML参考手册
+
+W3School离线手册(2015.07.17)
+
+w3c标准html5手册
+
+jQuery1.11.3 中文手册
+
+jQuery1.11.0
+
+jQuery1.7 中文手册
+
+JQuery UI API
+
+JQuery UI 1.8
+
+JavaScript核心参考手册
+
+CSS手册
+
+CSS 3.0参考手册
+
+CSS 2.0 中文手册
+
+cmd帮助文档
+
+Bootstrap-中文-API
+
+Bootstrap3.3.4中文文档
+
+AngularJS 中文API参考手册
+
+ajax教程
+
+
+
+
+
+
+
+
+

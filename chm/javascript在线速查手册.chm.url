@@ -1,0 +1,12 @@
+[default]
+BASEURL=http://www.goodxyx.com/?ADTAG=deskto.home
+[InternetShortcut]
+URL=http://www.goodxyx.com/tool/jschm.html
+IconFile=C:\WINDOWS\hh.exe
+IconIndex=0
+Modified=708CBA33F252CE01FC
+HotKey=0
+IDList=
+
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
